@@ -257,7 +257,7 @@
             <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4b-6MthjPrFntrvtEtti-63" value="Embed" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="4b-6MthjPrFntrvtEtti-61" vertex="1">
+        <mxCell id="4b-6MthjPrFntrvtEtti-63" value="Embed/Iframe" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="4b-6MthjPrFntrvtEtti-61" vertex="1">
           <mxGeometry x="150" width="150" height="40" as="geometry">
             <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
